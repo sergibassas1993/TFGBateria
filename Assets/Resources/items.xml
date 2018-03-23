@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<Notes>
+
+ 
+
+ 
+<Nota>
+   <instrument1>6
+   </instrument1>
+   <instrument2>5</instrument2>
+   <durabilitat>2.0
+   </durabilitat>
+   <temps>59.0</temps>
+   <onoff>true</onoff>
+  
+ </Nota>
+
+ <Nota>
+   <instrument1>7
+   </instrument1>
+   <instrument2>4</instrument2>
+   <durabilitat>3.0
+   </durabilitat>
+   <temps>55.0</temps>
+   <onoff>true</onoff>
+  
+ </Nota>
+
+  <Nota>
+   <instrument1>3
+   </instrument1>
+   <instrument2>2</instrument2>
+   <durabilitat>2.0
+   </durabilitat>
+   <temps>50.0</temps>
+   <onoff>true</onoff>
+  
+ </Nota>
+
+
+
+</Notes>
+

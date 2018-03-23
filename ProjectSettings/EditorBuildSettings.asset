@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01. Scenes/Menu.unity
+    guid: 01659282711b08e40b84fc1c8b512d18
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/01. Scenes/Playfree.unity
+    guid: 0c9902a822b6b3043baec6396ddf9bb8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/01. Scenes/Setting.unity
+    guid: 5ef9a07bc6960a145a2019a4821db37a
+  - enabled: 1
+    path: Assets/01. Scenes/PlayfreeVR.unity
+    guid: 7c538ceaa53193442889599306d22519
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/01. Scenes/DrummerheroP.unity
+    guid: 0ad4d65c5eef8194dbc69523e8568b36
+  - enabled: 1
+    path: Assets/01. Scenes/DrummerheroPVR.unity
+    guid: e5f9be2d63b036a43b6ec5ee6176463b
